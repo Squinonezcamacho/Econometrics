@@ -1,7 +1,7 @@
 # Predicting Medical Expenses Using Multiple Linear Regression
 
 ### Content
-I was provided with a simulated data set containing hypothetical medical expenses for patients which was created using demographic statistics from the US Census Bureau to approximately reflect real-world conditions. This cross sectional dataset contains 1,338 observations, with each oberservation represeinting one policyholder in the United States. Since this is a simple dataset with a small amount of customers, I decided to take use this dataset as if it was a propritary dataset for a small medical insurance start-up firm. This made the analysis of predicting yearly medical expenses with simple cross-sectional data more realistic.
+I was provided with a simulated data set containing hypothetical medical expenses for patients. This data set was created using demographic statistics from the US Census Bureau to approximately reflect real-world conditions. This cross sectional dataset contains 1,338 observations, with each oberservation represeinting one policyholder in the United States. Since this is a simple dataset with a small amount of policyholders, I decided to use this dataset as if it was a propritary dataset used by a start-up medical insurance firm to estimate yearly medical expenses. Therefore the multiple linear regression analysis would be focused on predicting yearly medical expenses from this simple cross-sectional data set.
 
 ### Motivation
 The purpose of this project was to answer the following research question: “How can a start-up medical insurance company use the available information collected on each individual policyholder to estimate how much it will have to to pay out in claims on a yearly basis?” 
